@@ -1,5 +1,5 @@
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/107d7648-dd15-45d9-9637-2d13681b5f2c/deploy-status)](https://app.netlify.com/sites/victoreke/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/02945603-0299-45c7-a43b-4d1f44f83cc4/deploy-status)](https://app.netlify.com/sites/hrishikeshkanojiya/deploys)
 </p>
 
 ### Color code
